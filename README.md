@@ -1,7 +1,7 @@
 # College courses:
 
 C++:
-Introduction to Computer Programming
+Introduction to Computer Programming<br>
 Intermediate Computer Programming
 
 Algorithms/math:
