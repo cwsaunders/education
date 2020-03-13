@@ -13,7 +13,7 @@ Introduction to Computer Science<br>
 Introduction to Linux<br>
 Introduction to Human-Computer Interaction<br><br>
 
-# LinkedIn certifications:<br><br>
+# LinkedIn certifications:
 
 Python:<br>
 Learning Django<br>
