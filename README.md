@@ -1,4 +1,4 @@
-# College courses:
+# College Courses:
 
 C++:<br>
 Introduction to Computer Programming<br>
@@ -13,7 +13,7 @@ Introduction to Computer Science<br>
 Introduction to Linux<br>
 Introduction to Human-Computer Interaction<br><br>
 
-# LinkedIn certifications:
+# LinkedIn Certifications:
 
 Python:<br>
 Learning Django<br>
@@ -28,4 +28,6 @@ Artificial Intelligence Foundations: Thinking Machines<br><br>
 Other:<br>
 Excel: VBA and Macros for Beginners<br><br>
 
-# Other certifications:<br><br>
+# Code Camp Certifications:
+
+Front End:<br>
