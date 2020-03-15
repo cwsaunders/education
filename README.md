@@ -16,6 +16,7 @@ Introduction to Human-Computer Interaction<br><br>
 # LinkedIn Certifications:
 
 Python:<br>
+Python (Programming Language) - Assessment passed<br>
 Learning Django<br>
 Visual Studio Code for Python Developers<br>
 Text Analytics and Predictions with Python Essential Training<br>
