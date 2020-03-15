@@ -6,6 +6,7 @@ Intermediate Computer Programming<br><br>
 
 Algorithms/math:<br>
 Discrete Mathematics<br>
+College Algebra<br>
 Introduction to Probability and Statistics<br><br>
 
 Other:<br>
