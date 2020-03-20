@@ -32,4 +32,10 @@ Excel: VBA and Macros for Beginners<br><br>
 
 # Code Camp Certifications:
 
-Front End:<br>
+Front End:<br><br>
+
+# Notable GitHub Contributions:
+
+PizzaPokerGuy/ultimate-coding-resources (1.9k stars and 200 forks as of 3/20/2020)<br>
+
+
