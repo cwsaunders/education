@@ -36,7 +36,7 @@ Front End:<br><br>
 
 # Notable GitHub Contributions:
 
-PizzaPokerGuy/ultimate-coding-resources (1.9k stars and 200 forks as of 3/20/2020)<br><br>
+PizzaPokerGuy/ultimate-coding-resources (2.2k stars and over 200 forks as of 3/31/2020)<br><br>
 
 # Hackerrank:
 
