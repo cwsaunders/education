@@ -41,4 +41,4 @@ PizzaPokerGuy/ultimate-coding-resources (1.9k stars and 200 forks as of 3/20/202
 # Hackerrank:
 
 Hackerrank: csaunders1<br>
-Python: 4 Star<br>
+Python: 5 Star<br>
