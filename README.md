@@ -14,22 +14,22 @@ Introduction to Computer Science<br>
 Introduction to Linux<br>
 Introduction to Human-Computer Interaction<br><br>
 
-# LinkedIn Certifications:
+# LinkedIn Certifications/Courses:
 
 Python:<br>
-Python (Programming Language) - Assessment passed<br>
-Learning Django<br>
-Visual Studio Code for Python Developers<br>
-Learning Python with PyCharm<br>
-Text Analytics and Predictions with Python Essential Training<br>
-Python Essential Training<br><br>
+Python (Programming Language) Assessment passed<br>
+Learning Django Course<br>
+Visual Studio Code for Python Developers Course<br>
+Learning Python with PyCharm Course<br>
+Text Analytics and Predictions with Python Essential Training Course<br>
+Python Essential Training Course<br><br>
 
 Algorithms/math:<br>
-Programming Foundations: Fuzzy Logic<br>
-Artificial Intelligence Foundations: Thinking Machines<br><br>
+Programming Foundations: Fuzzy Logic Course<br>
+Artificial Intelligence Foundations: Thinking Machines Course<br><br>
 
 Other:<br>
-Excel: VBA and Macros for Beginners<br><br>
+Excel: VBA and Macros for Beginners Course<br><br>
 
 # Code Camp Certifications:
 
