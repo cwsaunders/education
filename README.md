@@ -20,6 +20,7 @@ Python:<br>
 Python (Programming Language) - Assessment passed<br>
 Learning Django<br>
 Visual Studio Code for Python Developers<br>
+Learning Python with PyCharm<br>
 Text Analytics and Predictions with Python Essential Training<br>
 Python Essential Training<br><br>
 
