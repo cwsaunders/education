@@ -14,6 +14,22 @@ Introduction to Computer Science<br>
 Introduction to Linux<br>
 Introduction to Human-Computer Interaction<br><br>
 
+# Projects:
+
+Python:<br
+amazon-web-scraper<br>
+small-python-programs (binary search algorithm, hamming, hangman, etc)<br><br>
+
+C++:<br>
+Battleship (Implementing OOP)<br>
+Animals-homework (Implementing OOP and pointers)<br>
+gradebook-scores-collab (Implementing OOP)<br>
+array-splicing-homework (Implementing pointers and dynamic memory management)<br>
+student-testscores-assignment (Implementing OOP)<br>
+student-gradebook (Implementing OOP)<br>
+flooring-project<br>
+cplusplusmartian-homework (Implementing OOP and pointers)<br><br>
+
 # LinkedIn Certifications/Courses:
 
 Python:<br>
