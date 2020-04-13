@@ -49,7 +49,7 @@ Excel: VBA and Macros for Beginners Course<br><br>
 
 # Code Camp Certifications:
 
-Front End:<br><br>
+Responsive Web Design Certification (In Progress)<br><br>
 
 # Notable GitHub Contributions:
 
