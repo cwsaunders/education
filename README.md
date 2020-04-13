@@ -16,7 +16,7 @@ Introduction to Human-Computer Interaction<br><br>
 
 # Projects:
 
-Python:<br
+Python:<br>
 amazon-web-scraper<br>
 small-python-programs (binary search algorithm, hamming, hangman, etc)<br><br>
 
