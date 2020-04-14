@@ -19,6 +19,7 @@ Introduction to Human-Computer Interaction<br><br>
 Python:<br>
 amazon-web-scraper<br>
 twitter-bot (Use of Twitter API)<br>
+initial-workflow-gui<br>
 small-python-programs (binary search algorithm, hamming, hangman, etc)<br><br>
 
 C++:<br>
