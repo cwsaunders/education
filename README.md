@@ -36,6 +36,7 @@ cplusplusmartian-homework (Implements OOP and pointers)<br><br>
 
 Python:<br>
 Python (Programming Language) Assessment passed<br>
+Building a Recommendation System with Python Machine Learning and AI Course<br>
 Learning Django Course<br>
 Visual Studio Code for Python Developers Course<br>
 Learning Python with PyCharm Course<br>
