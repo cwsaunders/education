@@ -20,6 +20,7 @@ Python:<br>
 amazon-web-scraper<br>
 twitter-bot (Use of Twitter API)<br>
 initial-workflow-gui (Use of tkinter)<br>
+space-invaders-pygame (Use of pygame)<br>
 small-python-programs (includes binary search algorithm, hamming, hangman, etc)<br><br>
 
 C++:<br>
