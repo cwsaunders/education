@@ -1,5 +1,7 @@
 # College Courses:
 
+<b>Liberty University</b><br><br>
+
 C++:<br>
 Introduction to Computer Programming<br>
 Intermediate Computer Programming<br><br>
@@ -13,6 +15,11 @@ Other:<br>
 Introduction to Computer Science<br>
 Introduction to Linux<br>
 Introduction to Human-Computer Interaction<br><br>
+
+<b>University of Michigan:</b><br><br>
+
+Python:<br>
+Course 3: Using Python to Access Web Data (In Progress)<br>
 
 # Projects:
 
