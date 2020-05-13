@@ -1,6 +1,6 @@
 # College Courses:
 
-<b>Liberty University</b><br><br>
+<b>Liberty University:</b><br><br>
 
 C++:<br>
 Introduction to Computer Programming<br>
