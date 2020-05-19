@@ -19,7 +19,7 @@ Introduction to Human-Computer Interaction<br><br>
 <b>University of Michigan:</b><br><br>
 
 Python:<br>
-Course 3: Using Python to Access Web Data<br>
+Course 3: Using Python to Access Web Data (urllib, socket, xml, json, regex, BeautifulSoup, ssl)<br>
 Course 4: Using Databases with Python (In Progress)<br>
 
 # Projects:
