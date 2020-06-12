@@ -25,6 +25,7 @@ Course 4: Using Databases with Python (In Progress)<br>
 # Projects:
 
 Python:<br>
+Django-Applications (Uses Python and Django to create multiple web applications)<br>
 amazon-web-scraper<br>
 twitter-bot (Use of Twitter API)<br>
 initial-workflow-gui (Use of tkinter)<br>
