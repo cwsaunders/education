@@ -68,6 +68,7 @@ freeCodeCamp: Responsive Web Design Certification (In Progress)<br><br>
 
 # Notable GitHub Contributions:
 
+ornicar/lila - https://lichess.org/ - userbase typically has around 100,000 users playing at any given time. (7k stars, 1k forks as of 6/23/2020)<br>
 PizzaPokerGuy/ultimate-coding-resources (2.2k stars and over 200 forks as of 3/31/2020)<br><br>
 
 # Hackerrank:
