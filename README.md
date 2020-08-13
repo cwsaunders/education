@@ -4,6 +4,7 @@ Python:<br>
 Django-Applications (Uses Python and Django to create multiple web applications)<br>
 http://45.33.102.148<br>
 amazon-web-scraper<br>
+nlp-text-analysis<br>
 twitter-bot (Use of Twitter API)<br>
 initial-workflow-gui (Use of tkinter)<br>
 space-invaders-pygame (Use of pygame)<br>
