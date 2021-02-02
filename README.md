@@ -26,7 +26,17 @@ ornicar/lila - https://lichess.org/ - userbase typically has around 100,000 user
 zcash/zcash - Cryptocurrency with market cap of $700,000,000 US dollars. It is currently traded on Coinbase, Gemini, Binance, and Kraken cryptocurrency exchanges (7/31/2020).<br>
 PizzaPokerGuy/ultimate-coding-resources (2.2k stars and over 200 forks as of 3/31/2020)<br><br>
 
-# College Courses:
+# Graduate Courses:
+
+<b>University of Maine:</b><br><br>
+
+Python:<br>
+Information Systems Programming (SIE 507)
+
+Other:<br>
+Information Systems Law (Computer Science Law) (SIE 525)<br>
+
+# Undergraduate Courses:
 
 <b>Liberty University:</b><br><br>
 
