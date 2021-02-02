@@ -3,7 +3,7 @@
 Python:<br>
 Django-Applications (Uses Python and Django to create multiple web applications)<br>
 ai-ml (numpy, pandas, tensorflow, scikit-learn, etc)<br>
-http://45.33.102.148<br>
+http://45.33.102.148 (Django, PILL, beautifulsoup,crispy forms, bootstrap 4, etc)<br>
 amazon-web-scraper<br>
 nlp-text-analysis (Use of NLPK)<br>
 twitter-bot (Use of Twitter API)<br>
