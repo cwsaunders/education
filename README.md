@@ -29,7 +29,7 @@ PizzaPokerGuy/ultimate-coding-resources (2.2k stars and over 200 forks as of 3/3
 
 # Graduate Courses:
 
-<b>University of Maine:</b><br><br>
+<b>University of Maine: (Ongoing education -- Information Systems specializing in software development)</b><br><br>
 
 Python:<br>
 Information Systems Programming (SIE 507)
@@ -39,7 +39,7 @@ Information Systems Law (Computer Science Law) (SIE 525)<br>
 
 # Undergraduate Courses:
 
-<b>Liberty University:</b><br><br>
+<b>Liberty University: (Graduated)</b><br><br>
 
 C++:<br>
 Introduction to Computer Programming<br>
