@@ -2,6 +2,7 @@
 
 Python:<br>
 Django-Applications (Uses Python and Django to create multiple web applications)<br>
+ai-ml (numpy, pandas, tensorflow, scikit-learn, etc)<br>
 http://45.33.102.148<br>
 amazon-web-scraper<br>
 nlp-text-analysis (Use of NLPK)<br>
