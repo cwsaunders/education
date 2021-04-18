@@ -80,6 +80,7 @@ Artificial Intelligence Foundations: Thinking Machines Course<br><br>
 
 Other:<br>
 Programming Foundations: Software Testing/QA<br>
+Learning GitLab<br>
 Excel: VBA and Macros for Beginners Course<br><br>
 
 # Code Camp Certifications:
